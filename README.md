@@ -15,9 +15,3 @@ nearbyWidget.startup();
 Screen from Sample page:
 
 ![Screenshot](./screenshot.png)
-
-
-TODO
-====
-- Support for Image urls (problematic because url doesn't necessarily have file extension and need to request image/convert to base64)
-- Add multiple files to the map at once
